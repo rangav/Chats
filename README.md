@@ -9,6 +9,6 @@ Just the iPhone UI. No server.
 Chats is released under the [MIT License][3].
 
 
-[1]: https://github.com/acani/Chats/raw/master/Screenshots/Chats.png
-[2]: https://github.com/acani/Chats/raw/master/Screenshots/Chat.png
+[1]: https://raw.githubusercontent.com/rangav/Chats/master/Screenshots/Chat.png
+[2]: https://raw.githubusercontent.com/rangav/Chats/master/Screenshots/Chats.png
 [3]: http://opensource.org/licenses/MIT
